@@ -20,7 +20,8 @@
   }
   
   .left-side-icon {
-    display: none;
+   
+    display: none !important;
   }
   
   .left-phone-icon {
