@@ -618,7 +618,7 @@
     }
   
     .left-side-icon {
-      display: flex;
+      display: flex !important;
     }
   
     .middle-logo {
