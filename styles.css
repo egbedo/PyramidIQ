@@ -7,7 +7,7 @@
   body {
     /*   background-image:url(https://media.istockphoto.com/id/892105268/photo/seamless-white-wall-background.jpg?s=612x612&w=is&k=20&c=BPV7bEt7dBS8t0PvbEuAEDHD94vtM6YaDKKl5AYIibQ=); */
     background-color: white;
-    max-width:
+    
   }
   
   .navbar {
@@ -17,6 +17,7 @@
     height: 60px;
     align-items: center;
     margin: 0 !important;
+  
   }
   
   .left-side-icon {
@@ -609,8 +610,10 @@
   
   @media only screen and (min-width: 768px) {
     header {
-      padding: 25px 200px;
+      padding: 25px 50px;
       font-family: Arial, sans-serif;
+      
+      
     }
   
     .left-phone-icon {
@@ -619,6 +622,7 @@
   
     .left-side-icon {
       display: flex !important;
+      
     }
   
     .middle-logo {
